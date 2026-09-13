@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="theme_toggle">Toggle theme</string>
+    <string name="language_change">Change Language</string>
+    <string name="icon_style">Icon Style</string>
+</resources>
